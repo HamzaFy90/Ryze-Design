@@ -213,6 +213,18 @@ button {
  .adv--1 {
   font-size: 13px;
  }
+
+ .button--main-header {
+  display: none;
+ }
+
+ .Cart-icn-btn {
+  display: none;
+ }
+
+ .Account-icn-btn {
+  display: none;
+ }
 }
 
 @media only screen and (max-width: 1024px) {
@@ -312,9 +324,3 @@ button {
  justify-content: flex-end;
  gap: 1.3rem;
 }
-
-.Search-icn-btn {}
-
-.Account-icn-btn {}
-
-.Cart-icn-btn {}
