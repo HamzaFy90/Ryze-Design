@@ -237,3 +237,20 @@ button {
   font-size: 12px;
  }
 }
+
+/* ======== AnnoucmentHeader ========== */
+.annoucmen-header {
+ padding: 12px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ width: 100%;
+ background-color: var(--color-primary);
+}
+
+.annoucmnet-header {
+ color: white;
+ font-weight: 600;
+ font-size: 14px;
+ text-align: center;
+}
