@@ -254,3 +254,67 @@ button {
  font-size: 14px;
  text-align: center;
 }
+
+/* ========== Main Header Nav ======= */
+
+
+.wrapper--header-main {
+ background: #e2d2ca;
+ padding: 1rem 2rem;
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr;
+ align-items: center;
+ justify-content: space-between;
+}
+
+.wrapper-col-1-header {
+ width: 100%;
+ display: flex;
+ align-items: center;
+ justify-content: flex-start;
+ gap: 15px;
+}
+
+
+
+.button-header-main {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ width: 126px;
+ height: 40px;
+ padding-top: 12px;
+ padding-right: 24px;
+ padding-bottom: 12px;
+ padding-left: 24px;
+ border-radius: 8px;
+ background: #B54C31;
+}
+
+.button-header-main>a {
+ font-weight: 500;
+ font-size: 18px;
+ text-align: center;
+ color: white;
+}
+
+.wrapper-col-2-logo {
+ width: 100%;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+.wrapper-col-3-icons {
+ width: 100%;
+ display: flex;
+ align-items: center;
+ justify-content: flex-end;
+ gap: 1.3rem;
+}
+
+.Search-icn-btn {}
+
+.Account-icn-btn {}
+
+.Cart-icn-btn {}
