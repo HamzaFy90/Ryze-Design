@@ -1,0 +1,32 @@
+[
+ {
+  "image": "./Assets/Images/Group 6.png",
+  "rating": "30,0000",
+  "title": "Mushroom Coffee",
+  "price": "Starting from $30",
+  "advantages": [
+   "Balanced Energy",
+   "Gentle on gut"
+  ]
+ },
+ {
+  "image": "./Assets/Images/1.png",
+  "rating": "3.043",
+  "title": "Mushroom Matcha",
+  "price": "Starting from $30",
+  "advantages": [
+   "Good for your skin",
+   "Antioxidants"
+  ]
+ },
+ {
+  "image": "./Assets/Images/Rectangle 361.png",
+  "rating": "957",
+  "title": "Mushroom Decaf",
+  "price": "Starting from $30",
+  "advantages": [
+   "Relaxed Focus",
+   "Calm Energy"
+  ]
+ }
+]
